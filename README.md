@@ -33,15 +33,15 @@ See below announcement from exam page
 Each section of the exam material has its own README file linked below with links to Azure documentation, Plularsight videos (free), labs and other useful info.
 There is also [Exercises folder](/Exercises) with a few scripts (mostly Azure CLI) to deploy resources on Azure quicker.
 
-* [x] [Deploy and configure infrastructure (40-45%)](/1-infrastructure/README.md)
+* [ ] [Deploy and configure infrastructure (40-45%)](/1-infrastructure/README.md)
 
-* [x] [Implement workloads and security (25-30%)](/2-workloads-&-security/README.md)
+* [ ] [Implement workloads and security (25-30%)](/2-workloads-&-security/README.md)
 
-* [x] [Create and deploy apps (5-10%)](/3-create-&-deploy-apps/README.md)
+* [ ] [Create and deploy apps (5-10%)](/3-create-&-deploy-apps/README.md)
 
-* [x] [Implement authentication and secure data (5-10%)](/4-authentication-&-security/README.md)
+* [ ] [Implement authentication and secure data (5-10%)](/4-authentication-&-security/README.md)
 
-* [x] [Develop for the cloud and for Azure storage (15-20%)](/5-develop-cloud-&-storage/README.md)
+* [ ] [Develop for the cloud and for Azure storage (15-20%)](/5-develop-cloud-&-storage/README.md)
 
 ## Resources
 
